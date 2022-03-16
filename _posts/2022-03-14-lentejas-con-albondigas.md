@@ -16,7 +16,7 @@ comments: true
 | Papas            | 3                        |
 | Sal              | Al gusto                 |
 | Cebolla de huevo | 1.5                      |
-| Cebolla de larga | 1.5                      |
+| Cebolla larga    | 1.5                      |
 | Agua             | 1.5 litros               |
 | Ajo              | 2                        |
 | Pimienta         | Al gusto                 |
